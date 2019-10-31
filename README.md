@@ -2,10 +2,10 @@
 
 Several data challenge problems at Insight Data Science program.
 
-The first one is to predict breast cancer using supervised machine learning algorithms. 
+1. The first one is to predict breast cancer using supervised machine learning algorithms. 
 
-The second one is to find the reason of "engagement drops" of yammer market using its data. 
+2. The second one is to find the reason of "engagement drops" of yammer market using its data. 
 
-The third one is to A/B test price changing from 39 to 59, the conversion rate change or not?
+3. The third one is to A/B test price changing from 39 to 59, the conversion rate change or not?
 
-The fourth one is to find insight in global vedio game markets. 
+4. The fourth one is to find insight in global vedio game markets. 
