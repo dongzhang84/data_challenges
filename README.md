@@ -1,4 +1,4 @@
-# data_challenges
+# Data Challenges
 
 Several data challenge problems at Insight Data Science program.
 
@@ -10,6 +10,7 @@ Several data challenge problems at Insight Data Science program.
 
 4. The fourth one is to find insight in global vedio game markets. 
 
-Other data challenges from "Collection of Take-home Challenges"
+Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 01. Conversion Rate
+
