@@ -12,4 +12,4 @@ Several data challenge problems at Insight Data Science program.
 
 Other data challenges from "Collection of Take-home Challenges"
 
-01: Conversion Rate
+01. Conversion Rate
