@@ -9,3 +9,7 @@ Several data challenge problems at Insight Data Science program.
 3. The third one is to A/B test price changing from 39 to 59, the conversion rate change or not?
 
 4. The fourth one is to find insight in global vedio game markets. 
+
+Other data challenges from "Collection of Take-home Challenges"
+
+01: Conversion Rate
