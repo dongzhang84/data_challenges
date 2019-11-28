@@ -14,3 +14,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 01. Conversion Rate
 
+02. Spanish Translation and A/B Testing
+
