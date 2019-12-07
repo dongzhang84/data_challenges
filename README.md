@@ -18,3 +18,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 03. Employee Retention
 
+04. Credit Card Fraud Prediction
+
