@@ -20,3 +20,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 04. Credit Card Fraud Prediction
 
+05. Funnel Analysis
+
