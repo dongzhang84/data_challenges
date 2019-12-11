@@ -22,3 +22,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 05. Funnel Analysis
 
+06. Pricing Test
+
