@@ -2,7 +2,7 @@
 
 Several data challenge problems at Insight Data Science program.
 
-1. The first one is to predict breast cancer using supervised machine learning algorithms. 
+1. The first ([v1] (https://github.com/dongzhang84/data_challenges/blob/master/breast_cancer_v1.ipynb) and [v2] (https://github.com/dongzhang84/data_challenges/blob/master/breast_cancer_v2.ipynb)) is to predict breast cancer using supervised machine learning algorithms. 
 
 2. The second one is to find the reason of "engagement drops" of yammer market using its data. 
 
