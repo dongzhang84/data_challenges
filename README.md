@@ -26,3 +26,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 07. [Email Marketing Campaign](https://github.com/dongzhang84/data_challenges/blob/master/07_Email%20_Marketing_Campaign.ipynb)
 
+08. [Song Recommendations](https://github.com/dongzhang84/data_challenges/blob/master/08_Song_Recommendation_Challenge.ipynb)
+
