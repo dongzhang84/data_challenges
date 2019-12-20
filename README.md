@@ -28,3 +28,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 08. [Song Recommendations](https://github.com/dongzhang84/data_challenges/blob/master/08_Song_Recommendation_Challenge.ipynb)
 
+09. [Clustering Grocery Items (Dimension Reduction)](https://github.com/dongzhang84/data_challenges/blob/master/09_Clustering_Grocery%20_Items.ipynb)
+
