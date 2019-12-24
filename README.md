@@ -30,3 +30,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 
 09. [Clustering Grocery Items (Dimension Reduction)](https://github.com/dongzhang84/data_challenges/blob/master/09_Clustering_Grocery%20_Items.ipynb)
 
+10. [Credit Card Transactions](https://github.com/dongzhang84/data_challenges/blob/master/10_Credit_Card_Transactions.ipynb)
+
