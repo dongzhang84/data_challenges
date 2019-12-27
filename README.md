@@ -35,3 +35,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 11. [User_Referral_Progra](https://github.com/dongzhang84/data_challenges/blob/master/11_User_Referral_Program.ipynb)
 
 12. [Applying for a Loan](https://github.com/dongzhang84/data_challenges/blob/master/12_Applying_for_a_loan.ipynb)
+
+13. [Sessionize User Activity](https://github.com/dongzhang84/data_challenges/blob/master/13_Sessionize_User_Activity.ipynb)
