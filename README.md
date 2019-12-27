@@ -37,3 +37,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 12. [Applying for a Loan](https://github.com/dongzhang84/data_challenges/blob/master/12_Applying_for_a_loan.ipynb)
 
 13. [Sessionize User Activity](https://github.com/dongzhang84/data_challenges/blob/master/13_Sessionize_User_Activity.ipynb)
+
+14. [Optimization of Employee Shuttle Stops](https://github.com/dongzhang84/data_challenges/blob/master/14_Employee_Shuttle_Stops_v2.ipynb)
