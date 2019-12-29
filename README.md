@@ -41,3 +41,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 14. [Optimization of Employee Shuttle Stops](https://github.com/dongzhang84/data_challenges/blob/master/14_Employee_Shuttle_Stops_v2.ipynb)
 
 15. [Workplace Diversity Analysis](https://github.com/dongzhang84/data_challenges/blob/master/15_Workplace_Diversity_Analysis.ipynb)
+
+16. [Hotel Search Data](https://github.com/dongzhang84/data_challenges/blob/master/16_Hotel_Search_Data.ipynb)
