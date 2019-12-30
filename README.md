@@ -45,3 +45,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 16. [Hotel Search Data](https://github.com/dongzhang84/data_challenges/blob/master/16_Hotel_Search_Data.ipynb)
 
 17. [Engagement Test](https://github.com/dongzhang84/data_challenges/blob/master/17_Engagement_Test.ipynb)
+
+18. [Video Sharing Analysis](https://github.com/dongzhang84/data_challenges/blob/master/18_Video_Sharing_Analysis.ipynb)
