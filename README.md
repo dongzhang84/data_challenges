@@ -47,3 +47,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 17. [Engagement Test](https://github.com/dongzhang84/data_challenges/blob/master/17_Engagement_Test.ipynb)
 
 18. [Video Sharing Analysis](https://github.com/dongzhang84/data_challenges/blob/master/18_Video_Sharing_Analysis.ipynb)
+
+19. [Subscription Retention Rate](https://github.com/dongzhang84/data_challenges/blob/master/19_Subscription_Retention_Rate.ipynb)
