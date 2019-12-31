@@ -10,9 +10,12 @@ Several data challenge problems at Insight Data Science program.
 
 4. The [fourth](https://github.com/dongzhang84/data_challenges/blob/master/video_game.ipynb) is to find insight in global vedio game markets. 
 
-Other data challenges from "A Collection of Data Science Take-home Challenges"
+Other data challenges from "A Collection of Data Science Take-home Challenges". I worked through all of the problems. Here is a very useful reference:
+https://github.com/dongzhang84/DS-Take-Home
 
 01. [Conversion Rate](https://github.com/dongzhang84/data_challenges/blob/master/01_Conversion_Rate.ipynb)
+
+Machine Learning: Classification
 
 02. [Spanish Translation and A/B Testing](https://github.com/dongzhang84/data_challenges/blob/master/02_Spanish_Translation.ipynb)
 
