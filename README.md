@@ -49,3 +49,5 @@ Other data challenges from "A Collection of Data Science Take-home Challenges"
 18. [Video Sharing Analysis](https://github.com/dongzhang84/data_challenges/blob/master/18_Video_Sharing_Analysis.ipynb)
 
 19. [Subscription Retention Rate](https://github.com/dongzhang84/data_challenges/blob/master/19_Subscription_Retention_Rate.ipynb)
+
+20. [Ads Analysis](https://github.com/dongzhang84/data_challenges/blob/master/20_Ads_Analysis.ipynb)
