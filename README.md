@@ -94,3 +94,12 @@ https://github.com/dongzhang84/DS-Take-Home
 20. [Ads Analysis](https://github.com/dongzhang84/data_challenges/blob/master/20_Ads_Analysis.ipynb)
 
      Time Series Analysis, Regression
+     
+     
+----------------------
+
+Some basic practice
+
+[Iris Problem](https://github.com/dongzhang84/data_challenges/blob/master/Iris.ipynb)
+
+[Titanic Problem](https://github.com/dongzhang84/data_challenges/blob/master/Titanic.ipynb)
