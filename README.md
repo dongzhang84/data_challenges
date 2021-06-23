@@ -102,4 +102,6 @@ Some basic practice
 
 [Iris Problem](https://github.com/dongzhang84/data_challenges/blob/master/Iris.ipynb)
 
-[Titanic Problem](https://github.com/dongzhang84/data_challenges/blob/master/Titanic.ipynb)
+[Titanic Problem (Kaggle classification)](https://github.com/dongzhang84/data_challenges/blob/master/Titanic.ipynb)
+
+[House Price (Kaggle regression)](https://github.com/dongzhang84/data_challenges/blob/master/House_Price_tutorial.ipynb)
